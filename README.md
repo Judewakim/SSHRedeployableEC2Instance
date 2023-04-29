@@ -1,4 +1,4 @@
-<h1>Deploy an AWS EC2 Instance that you can SSH into</h1>
+<h1>Use Terraform Deploy an AWS EC2 Instance that you can SSH into</h1>
 
 <img src="https://i.imgur.com/ygj8Nru.png" height="30%" width="85%" text-align="center" alt="Reference Architecture"/>
 
