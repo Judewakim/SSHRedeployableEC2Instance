@@ -45,8 +45,7 @@ In this template file this is code to install docker.
 In this template file this is code to configure the windows SSH with identifying values.
 
 <h2>Resources Used</h2>
-- <b>YouTube:</b> [Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners](https://www.youtube.com/watch?v=iRaai1IBlB0&ab_channel=freeCodeCamp.org)
 
-<br> - <b>YouTube:</b> [Terraform explained in 15 mins | Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=l5k1ai_GBDE&t=3s&ab_channel=TechWorldwithNana)
-
-<br> - <b>Terraform:</b> [Terraform Registry](https://registry.terraform.io/)
+- <b>YouTube:</b> [Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners](https://www.youtube.com/watch?v=iRaai1IBlB0&ab_channel=freeCodeCamp.org) <br>
+- <b>YouTube:</b> [Terraform explained in 15 mins | Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=l5k1ai_GBDE&t=3s&ab_channel=TechWorldwithNana) <br>
+- <b>Terraform:</b> [Terraform Registry](https://developer.hashicorp.com/terraform/language/values/variables)
