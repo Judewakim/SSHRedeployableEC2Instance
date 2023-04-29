@@ -1,9 +1,10 @@
 <h1>Deploy an AWS EC2 instance that you can SSH into</h1>
+<img src="https://i.imgur.com/ygj8Nru.png" height="30%" width="85%" text-align="center" alt="Reference Architecture"/>
 <h2>Overview</h2>
 This lab demonstrates knowledge of the foundations of <b>Terraform and AWS Infrastructure</b>. In this lab, you will setup an <b>AWS IAM user</b> and assign permissions. You will learn <b>Terraform commands</b> like init, plan, apply, destory, and more and some flags. You will create providers for AWS. You will create a <b>VPC, Public Subnet, Internet Gateway, Routing Table with associations, Security Group, AMI, Key Pair, EC2 Instance, .tpl files, SSH configurations, Provisioners, Variables, Conditional Expressions, and Outputs</b>. 
 <br>
 <br>
-<img src="https://i.imgur.com/ygj8Nru.png" height="45%" width="45%" text-align="center" alt="Reference Architecture"/>
+
 
 
 <h2>main.tf</h2>
